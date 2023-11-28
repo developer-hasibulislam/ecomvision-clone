@@ -1,10 +1,33 @@
-# Ecomvision Admin Dashboard
+# eCommerce Dashboard `eComvision`
 
-> Build a MERN React Admin Dashboard | Redux Toolkit Query, Backend Focus, Deployment, Data Modeling
+> Streamline e-commerce operations with powerful and intuitive dashboard management and growth.
 
-# Banner Image
+## Banner Image
 
 ![Banner](./Banner.png)
+
+## Features
+
+- Light/Dark Mode
+- Display Geography
+- Fetch from REST API
+- Transition to Animation
+- Functional Table (Sorting)
+- Functional Graph & Charts (Different Views)
+- Fully Responsive (PC, Laptop, Tablet & Mobile)
+
+## Tech Stack
+
+- Framework: `React.JS`
+- State Container: `Redux Toolkit`
+- Styling: `Emotion`
+- Icons: `Hero JSX Icons`
+- Database: `MongoDB`
+- ORM: `Mongoose`
+- Linting: `ESLint`
+- Formatter: `Prettier`
+- UI Component: `Materiul UI`
+- Backend Server: `Express.Js Server`
 
 ## Clone Repo:
 
@@ -36,8 +59,8 @@ MONGO_URL=
 
 ## Important Links
 
-* Client Side - [Click Here](https://ecomvision-csr.vercel.app/)
-* Server Side - [Click Here](https://ecomvision-ssr.vercel.app/)
+- Client Side - [Click Here](https://ecomvision-csr.vercel.app/)
+- Server Side - [Click Here](https://ecomvision-ssr.vercel.app/)
 
 # Author
 
