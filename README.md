@@ -67,5 +67,5 @@ MONGO_URL=
 > Expert Full Stack Developer || Lead Generation Expert
 
 - Hasibul Islam
-  - `Linkedin` [hasibulislam999](https://www.linkedin.com/in/developer-hasibulislam)
+  - `Linkedin` [devhasibulislam](https://www.linkedin.com/in/devhasibulislam)
   - `WhatsApp` [+8801906315901](https://wa.me/01906315901)
